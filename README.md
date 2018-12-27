@@ -14,7 +14,7 @@ Project is created with:
 * JavaScript
 
 ## Tools
-The following tools were used
+The following tools were used:
 * React
 * NPM
 * Git
